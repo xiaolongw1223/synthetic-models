@@ -1,8 +1,9 @@
 # SynModel
-The collection of synthetic/realistic models used in Xiaolong's work.
+The collection of synthetic/realistic models used in Xiaolong's work, where each model can be used to test inversion code and algorithms. 
 
 Currently, a synthetic model includes four parts:
  - mesh file: ".msh"
- - simulated data file with UBC format: ".obs"
+ - simulated data with UBC format: ".obs"
  - topography: ".txt"
  - true model: ".txt"
+
