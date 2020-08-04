@@ -7,4 +7,4 @@ Currently, a synthetic model includes four parts:
  - topography: " .txt"
  - true model: " .txt"
 
-Updating Aug 3, 2020
+Last time for updating: Aug 3, 2020
