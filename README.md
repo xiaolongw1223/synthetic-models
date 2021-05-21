@@ -8,6 +8,3 @@ Currently, a synthetic model includes four parts:
  - true model: " .txt"
 
 Last updating: Dec 13, 2020
-'''
-d
-'''
